@@ -19,7 +19,7 @@ Especificamente, atuo como **desenvolvedor full stack** e  **DevOps**, trabalhan
 # Como Professor
 
 ## 📘 **Introdução Ao REACT: Construindo Interfaces Modernas do Zero**
-Se você deseja aprender React e dominar o desenvolvimento de interfaces modernas, interativas e escaláveis, confira meu eBook: [Introdução Ao REACT: Construindo Interfaces Modernas do Zero](https://go.hotmart.com/B95386333R). O primeiro de uma série de outros que abordaram, modularmente, conceitos do moderno desenvolvimento web.
+Se você deseja aprender React e dominar o desenvolvimento de interfaces modernas, interativas e escaláveis, confira meu eBook: [Introdução Ao REACT: Construindo Interfaces Modernas do Zero](https://go.hotmart.com/B95386333R). O primeiro de uma série de outros que abordarão, modularmente, conceitos do moderno desenvolvimento web.
 
 ### O que você vai aprender:
 - Fundamentos do React
