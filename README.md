@@ -30,7 +30,7 @@ Especificamente, atuo como **desenvolvedor full stack**, trabalhando com servido
 
 ## 🚀 Habilidades
 - **Frontend**: React , TypeScript, HTML5, Sass, Svelte
-- **Backend**: Laravel, Python, Node.js
+- **Backend**: Laravel, Lumen, Python, Node.js
 - **DevOps**: AWS, Google Cloud, Docker, GitHub, GitLab
 - **Infraestrutura em Nuvem**: Configuração e gerenciamento de servidores em AWS e GCP
 - **Banco de Dados**: MySQL, MongoDB
