@@ -1,5 +1,6 @@
 # Olá, eu sou Lameck Fernandes 👋
 ![Badge](https://img.shields.io/badge/LA-meck-%5a03fc?style=for-the-badge&logo=freelancer)
+![Badge](https://img.shields.io/badge/Content-Creator-%23007bff?style=for-the-badge&logo=creativecommons)
 ![Badge](https://img.shields.io/badge/Teacher-.-%23007bff?style=for-the-badge&logo=actigraph)
 ![Badge](https://img.shields.io/badge/Prompt-AI-%23007bff?style=for-the-badge&logo=proteus)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
