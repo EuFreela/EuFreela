@@ -10,7 +10,7 @@ Especificamente, atuo como **desenvolvedor full stack** e  **DevOps**, trabalhan
 - **DevOps**: AWS, Google Cloud, Docker, GitHub, GitLab
 - **Infraestrutura em Nuvem**: Configuração e gerenciamento de servidores em AWS e GCP
 - **Banco de Dados**: MySQL, MongoDB
-- **Automação e IoT**: Integração de dispositivos inteligentes em edifícios - (área de software)
+- **Automação e IoT**: Integração de dispositivos inteligentes em edifícios - (Desenvolvimento de softwares)
 
 ## 📫 Como me encontrar?
 - [Linktr](https://linktr.ee/lameckfernandes)
