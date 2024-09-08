@@ -22,11 +22,11 @@
 ![Badge](https://img.shields.io/badge/Web-Design-%237159c1?style=for-the-badge&logo=adobeacrobatreader)
 ![Badge](https://img.shields.io/badge/Musician-%237159c1?style=for-the-badge&logo=applemusic)
 ![Badge](https://img.shields.io/badge/Music-Producer-%237159c1?style=for-the-badge&logo=musescore)
-![Badge](https://img.shields.io/badge/Composer-.-%ff0ssdfc1?style=for-the-badge&logo=composer)
+![Badge](https://img.shields.io/badge/Music-Composer-%ff0ssdfc1?style=for-the-badge&logo=composer)
 ![Badge](https://img.shields.io/badge/Web-Pentaster-%237159c1?style=for-the-badge&logo=avira)
 
 Sou **engenheiro de software** especializado em soluções tecnológicas para **smart buildings**, criando sistemas inovadores que conectam e automatizam diversos dispositivos e infraestruturas dentro de edifícios. Meu foco é melhorar a **eficiência energética**, **segurança**, e a **gestão inteligente dos espaços**.
-Especificamente, atuo como **desenvolvedor full stack** e  **DevOps**, trabalhando com servidores da **Amazon Web Services (AWS)** e **Google Cloud Platform (GCP)** para garantir escalabilidade, segurança e alta disponibilidade em ambientes de produção. No desenvolvimento, utilizo **Python**, **Laravel** e **React** para criar soluções robustas e eficientes.
+Especificamente, atuo como **desenvolvedor full stack**, trabalhando com servidores da **Amazon Web Services (AWS)** e **Google Cloud Platform (GCP)** para garantir escalabilidade, segurança e alta disponibilidade em ambientes de produção. No desenvolvimento, utilizo **Python**, **Laravel** e **React** para criar soluções robustas e eficientes.
 
 ## 🚀 Habilidades
 - **Frontend**: React , TypeScript, HTML5, Sass, Svelte
