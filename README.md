@@ -17,6 +17,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Badge](https://img.shields.io/badge/Computer-Forense-%23007bff?style=for-the-badge&logo=photobucket)
 ![Badge](https://img.shields.io/badge/Computer-Sciense-%23007bff?style=for-the-badge&logo=internetcomputer)
+![Badge](https://img.shields.io/badge/Judicial-Expert-%23007bff?style=for-the-badge&logo=aeroflot)
+![Badge](https://img.shields.io/badge/Pentaster-%237159c1?style=for-the-badge&logo=paperlessngx)
+![Badge](https://img.shields.io/badge/Web-Design-%237159c1?style=for-the-badge&logo=adobeacrobatreader)
+![Badge](https://img.shields.io/badge/Musician-%237159c1?style=for-the-badge&logo=applemusic)
+![Badge](https://img.shields.io/badge/Music-Producer-%237159c1?style=for-the-badge&logo=musescore)
+![Badge](https://img.shields.io/badge/Composer-.-%ff0ssdfc1?style=for-the-badge&logo=composer)
+![Badge](https://img.shields.io/badge/Web-Pentaster-%237159c1?style=for-the-badge&logo=avira)
 
 Sou **engenheiro de software** especializado em soluções tecnológicas para **smart buildings**, criando sistemas inovadores que conectam e automatizam diversos dispositivos e infraestruturas dentro de edifícios. Meu foco é melhorar a **eficiência energética**, **segurança**, e a **gestão inteligente dos espaços**.
 Especificamente, atuo como **desenvolvedor full stack** e  **DevOps**, trabalhando com servidores da **Amazon Web Services (AWS)** e **Google Cloud Platform (GCP)** para garantir escalabilidade, segurança e alta disponibilidade em ambientes de produção. No desenvolvimento, utilizo **Python**, **Laravel** e **React** para criar soluções robustas e eficientes.
