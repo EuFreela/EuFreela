@@ -17,7 +17,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Badge](https://img.shields.io/badge/Computer-Forense-%23007bff?style=for-the-badge&logo=photobucket)
 ![Badge](https://img.shields.io/badge/Computer-Sciense-%23007bff?style=for-the-badge&logo=internetcomputer)
-![Badge](https://img.shields.io/badge/Judicial-Expert-%23007bff?style=for-the-badge&logo=aeroflot)
+![Badge](https://img.shields.io/badge/Judicial%20Expert-Computer%20Sciense-%23007bff?style=for-the-badge&logo=aeroflot)
 ![Badge](https://img.shields.io/badge/Pentaster-%237159c1?style=for-the-badge&logo=paperlessngx)
 ![Badge](https://img.shields.io/badge/Web-Design-%237159c1?style=for-the-badge&logo=adobeacrobatreader)
 ![Badge](https://img.shields.io/badge/Musician-%237159c1?style=for-the-badge&logo=applemusic)
