@@ -26,6 +26,7 @@
 ![Badge](https://img.shields.io/badge/Musician-%237159c1?style=for-the-badge&logo=applemusic)
 ![Badge](https://img.shields.io/badge/Music-Producer-%237159c1?style=for-the-badge&logo=musescore)
 ![Badge](https://img.shields.io/badge/Music-Composer-%ff0ssdfc1?style=for-the-badge&logo=composer)
+![Badge](https://img.shields.io/badge/Ghost-Producer-%ff0ssdfc1?style=for-the-badge&logo=composer)
 ![Badge](https://img.shields.io/badge/Web-Pentaster-%237159c1?style=for-the-badge&logo=avira)
 
 Sou **engenheiro de software** especializado em soluções tecnológicas para **smart buildings**, criando sistemas inovadores que conectam e automatizam diversos dispositivos e infraestruturas dentro de edifícios. Meu foco é melhorar a **eficiência energética**, **segurança**, e a **gestão inteligente dos espaços**.
