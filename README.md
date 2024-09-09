@@ -54,3 +54,13 @@ Se você deseja aprender React e dominar o desenvolvimento de interfaces moderna
 - Criação de componentes reutilizáveis
 - Como usar o Virtual DOM para melhorar a performance
 - Desenvolvimento de aplicações web responsivas e escaláveis
+
+---
+
+## 🚀 Doe
+
+Se algum dos conteúdos que disponibilizei ao longo dos anos na internet foi útil para você, considere apoiar essa causa. Seu apoio permitirá que eu continue criando e oferecendo conteúdo de qualidade, tornando esse projeto sustentável. Sua contribuição faz toda a diferença para que eu possa seguir compartilhando conhecimento com a mesma dedicação e qualidade.
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=TU5PDUQBT7E8Y" target="_blank">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+</a>
