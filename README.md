@@ -59,7 +59,7 @@ Se você deseja aprender React e dominar o desenvolvimento de interfaces moderna
 
 ## 🚀 Um Café
 
-Se algum dos conteúdos que disponibilizei ao longo dos anos na internet foi útil para você, considere apoiar essa causa. Seu apoio permitirá que eu continue criando e oferecendo conteúdo de qualidade, tornando esse projeto sustentável. Sua contribuição faz toda a diferença para que eu possa seguir compartilhando conhecimento com a mesma dedicação e qualidade. Basta um café 😊
+Se algum dos conteúdos que disponibilizei ao longo dos anos na internet foi útil para você, considere apoiar essa causa. Seu apoio permitirá que eu continue criando e oferecendo conteúdo de qualidade e gratuito. Sua contribuição faz toda a diferença para que eu possa seguir compartilhando conhecimento com a mesma dedicação e qualidade. Basta um café 😊
 
 ETH: 0x5Fd6aC37A99f97F8227aB96eEf3D523734503851
 
