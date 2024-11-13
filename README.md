@@ -62,6 +62,7 @@ Se você deseja aprender React e dominar o desenvolvimento de interfaces moderna
 Se algum dos conteúdos que disponibilizei ao longo dos anos na internet foi útil para você, considere apoiar essa causa. Seu apoio permitirá que eu continue criando e oferecendo conteúdo de qualidade e gratuito. Sua contribuição faz toda a diferença para que eu possa seguir compartilhando conhecimento com a mesma dedicação e qualidade. Basta um café 😊
 
 ETH: 0x6b8b245ecB9024d2789a281ef0DCAC20f46cE2CD
+BTC: bc1ppzk2umd54ytyzyey6yq9eyp4jwzlmmh9khfv0spwy2y05aa8q9eqlpw57k
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=TU5PDUQBT7E8Y" target="_blank">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
