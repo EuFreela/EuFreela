@@ -39,7 +39,7 @@ Especificamente, atuo como **desenvolvedor full stack**, trabalhando com servido
 - **Infraestrutura em Nuvem**: Configuração e gerenciamento de servidores em AWS e GCP
 - **Banco de Dados**: MySQL, MongoDB
 - **Automação e IoT**: Integração de dispositivos inteligentes em edifícios - (Desenvolvimento de softwares)
-- - **Pentaster**: Offensive security/Red Team
+- **Red Team**: Offensive security
 
 ## 📫 Como me encontrar?
 - [Linktr](https://linktr.ee/lameckfernandes)
