@@ -47,7 +47,13 @@ Especificamente, atuo como **desenvolvedor full stack**, trabalhando com servido
 ---
 # Como Autor
 
-## 📘 **Introdução Ao REACT: Construindo Interfaces Modernas do Zero**
+## Fição Científica:
+### 📘 **Herança Artificial: O Limiar Da Esperança (Portuguese Edition)**
+**Herança Artificial:** O Limiar da Esperança é uma poderosa ficção científica sobre amor, redenção e os limites entre o humano e o artificial.
+[Livro](https://www.amazon.com/dp/6501236371)
+
+## Tecnologia:
+### 📘 **Introdução Ao REACT: Construindo Interfaces Modernas do Zero**
 Se você deseja aprender React e dominar o desenvolvimento de interfaces modernas, interativas e escaláveis, confira meu eBook: [Introdução Ao REACT: Construindo Interfaces Modernas do Zero](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Ao-REACT-Construindo-Interfaces-ebook/dp/B0DMTMYF1F/ref=sr_1_1?dib=eyJ2IjoiMSJ9.1XZ6uN8x7kgZhCnwqKKB_A.lhCh93Zo67kpiDvu2YPoI657Xi_taw5lFNSxPxfLoZk&dib_tag=se&qid=1731492465&refinements=p_27%3ALAMECK+FERNANDES&s=digital-text&sr=1-1&text=LAMECK+FERNANDES). O primeiro de uma série de outros que abordarão, modularmente, conceitos do moderno desenvolvimento web.
 
 ### O que você vai aprender:
