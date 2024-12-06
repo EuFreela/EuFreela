@@ -50,7 +50,7 @@ Especificamente, atuo como **desenvolvedor full stack**, trabalhando com servido
 ## Fição Científica:
 ### 📘 **Herança Artificial: O Limiar Da Esperança (Portuguese Edition)**
 **Herança Artificial:** O Limiar da Esperança é uma poderosa ficção científica sobre amor, redenção e os limites entre o humano e o artificial.
-[Livro](https://www.amazon.com/dp/6501236371)
+[Livro](https://clubedeautores.com.br/livro/heranca-artificial)
 
 ## Tecnologia:
 ### 📘 **Introdução Ao REACT: Construindo Interfaces Modernas do Zero**
