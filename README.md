@@ -32,6 +32,14 @@
 Sou **engenheiro de software** especializado em soluções tecnológicas para **smart buildings**, criando sistemas inovadores que conectam e automatizam diversos dispositivos e infraestruturas dentro de edifícios. Meu foco é melhorar a **eficiência energética**, **segurança**, e a **gestão inteligente dos espaços**.
 Especificamente, atuo como **desenvolvedor full stack**, trabalhando com servidores da **Amazon Web Services (AWS)** e **Google Cloud Platform (GCP)** para garantir escalabilidade, segurança e alta disponibilidade em ambientes de produção. No desenvolvimento, utilizo **Python**, **Laravel** e **React** para criar soluções robustas e eficientes.
 
+---
+
+Obs: Se você estiver avaliando este GitHub como parte de um processo seletivo, é importante considerar um ponto fundamental: ao longo da minha trajetória, nunca atuei repetidamente em uma única função. Cada projeto e desafio exigiu habilidades diferentes, o que refletiu em um currículo diversificado. O que pode parecer extenso ou variado em alguns contextos é, na verdade, o resumo de uma vida profissional marcada por múltiplas experiências, adaptadas a diferentes posições que exigiram capacitação específica — o que entendo como conhecimento aplicado e experiência real.
+
+Essa diversidade demonstra minha resiliência e capacidade de adaptação a diferentes cenários e demandas. Quando me candidato a uma vaga específica, costumo criar um currículo direcionado, destacando as habilidades mais relevantes para aquela área, o que também deixo claro nas descrições dos meus projetos e experiências.
+
+---
+
 ## 🚀 Habilidades
 - **Frontend**: React , TypeScript, HTML5, Sass, Svelte
 - **Backend**: Laravel, Lumen, Python, Node.js
