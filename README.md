@@ -36,7 +36,7 @@ Especificamente, atuo como **desenvolvedor full stack**, trabalhando com servido
 
 Obs: Se você estiver avaliando este GitHub como parte de um processo seletivo, é importante considerar um ponto fundamental: ao longo da minha trajetória, nunca atuei repetidamente em uma única função. Cada projeto e desafio exigiu habilidades diferentes, o que refletiu em um currículo diversificado. O que pode parecer extenso ou variado em alguns contextos é, na verdade, o resumo de uma vida profissional marcada por múltiplas experiências, adaptadas a diferentes posições que exigiram capacitação específica — o que entendo como conhecimento aplicado e experiência real - além de somar em conhecimento não profissional que considero hoobies.
 
-Essa diversidade demonstra minha resiliência e capacidade de adaptação a diferentes cenários e demandas. Quando me candidato a uma vaga específica, costumo criar um currículo direcionado, destacando as habilidades mais relevantes para aquela área, o que também deixo claro nas descrições dos meus projetos e experiências.
+Essa diversidade demonstra minha resiliência e capacidade de adaptação a diferentes cenários e demandas. Quando me candidato a uma vaga específica, costumo criar um currículo direcionado, destacando as habilidades mais relevantes para aquela área, o que também deixo claro nas descrições dos meus projetos e experiências. Fora deste contexto gosto de escrever sobre assuntos diversos que tenho certo conhecimento seja ele profissional ou não como blogs, este github, entre outros.
 
 ---
 
