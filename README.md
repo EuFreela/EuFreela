@@ -49,10 +49,14 @@ Essa diversidade demonstra minha resiliência e capacidade de adaptação a dife
 - **Automação e IoT**: Integração de dispositivos inteligentes em edifícios - (Desenvolvimento de softwares)
 - **Red Team**: Offensive Security
 
-## 📫 Como me encontrar?
-- [Linktr](https://linktr.ee/lameckfernandes)
+---
+
+# Tempo Livre
+
+Quando tenho algum tempo livre costumo me dedicar a hoobies como escrever (livros, artigos de blog, tutoriais, curso, etc), compor musicas e letras, as vezes jogar algum game. Posso ter iniciado algo e a medida que o tenho tempo vou finalizando aos poucos e publicando. Gosto de estar sempre ativo.
 
 ---
+
 # Como Autor
 
 ## Fição Científica:
