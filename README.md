@@ -1,88 +1,103 @@
-# Olá, eu sou Lameck Fernandes 👋
-![Badge](https://img.shields.io/badge/LA-meck-%5a03fc?style=for-the-badge&logo=freelancer)
-![Badge](https://img.shields.io/badge/Content-Creator-%23007bff?style=for-the-badge&logo=creativecommons)
-![Badge](https://img.shields.io/badge/Teacher-.-%23007bff?style=for-the-badge&logo=actigraph)
-![Badge](https://img.shields.io/badge/Prompt-AI-%23007bff?style=for-the-badge&logo=proteus)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Badge](https://img.shields.io/badge/Computer-Forense-%23007bff?style=for-the-badge&logo=photobucket)
-![Badge](https://img.shields.io/badge/Computer-Sciense-%23007bff?style=for-the-badge&logo=internetcomputer)
-![Badge](https://img.shields.io/badge/Judicial%20Expert-Computer%20Sciense-%23007bff?style=for-the-badge&logo=aeroflot)
-![Badge](https://img.shields.io/badge/Pentaster-%237159c1?style=for-the-badge&logo=paperlessngx)
-![Badge](https://img.shields.io/badge/Web-Design-%237159c1?style=for-the-badge&logo=adobeacrobatreader)
-![Badge](https://img.shields.io/badge/Musician-%237159c1?style=for-the-badge&logo=applemusic)
-![Badge](https://img.shields.io/badge/Music-Producer-%237159c1?style=for-the-badge&logo=musescore)
-![Badge](https://img.shields.io/badge/Music-Composer-%ff0ssdfc1?style=for-the-badge&logo=composer)
-![Badge](https://img.shields.io/badge/Ghost-Producer-%ff0ssdfc1?style=for-the-badge&logo=composer)
-![Badge](https://img.shields.io/badge/Web-Pentaster-%237159c1?style=for-the-badge&logo=avira)
 
-Sou **engenheiro de software** especializado em soluções tecnológicas para **smart buildings**, criando sistemas inovadores que conectam e automatizam diversos dispositivos e infraestruturas dentro de edifícios. Meu foco é melhorar a **eficiência energética**, **segurança**, e a **gestão inteligente dos espaços**.
-Especificamente, atuo como **desenvolvedor full stack**, trabalhando com servidores da **Amazon Web Services (AWS)** e **Google Cloud Platform (GCP)** para garantir escalabilidade, segurança e alta disponibilidade em ambientes de produção. No desenvolvimento, utilizo **Python**, **Laravel** e **React** para criar soluções robustas e eficientes.
+# Hi, I'm Lameck Fernandes 👋
 
----
+![Software Engineer](https://img.shields.io/badge/Software-Engineer-176B66?style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/AI-Engineering-7B61FF?style=for-the-badge)
+![Freelancer](https://img.shields.io/badge/Independent-Developer-0A66C2?style=for-the-badge)
 
-Obs: Se você estiver avaliando este GitHub como parte de um processo seletivo, é importante considerar um ponto fundamental: ao longo da minha trajetória, nunca atuei repetidamente em uma única função. Cada projeto e desafio exigiu habilidades diferentes, o que refletiu em um currículo diversificado. O que pode parecer extenso ou variado em alguns contextos é, na verdade, o resumo de uma vida profissional marcada por múltiplas experiências, adaptadas a diferentes posições que exigiram capacitação específica — o que entendo como conhecimento aplicado e experiência real - além de somar em conhecimento não profissional que considero hoobies.
+Software Engineer with extensive experience in backend development, systems integration, and custom software solutions. My background includes software architecture, APIs, cybersecurity, cloud infrastructure, and connected systems.
 
-Essa diversidade demonstra minha resiliência e capacidade de adaptação a diferentes cenários e demandas. Quando me candidato a uma vaga específica, costumo criar um currículo direcionado, destacando as habilidades mais relevantes para aquela área, o que também deixo claro nas descrições dos meus projetos e experiências. Fora deste contexto gosto de escrever sobre assuntos diversos que tenho certo conhecimento seja ele profissional ou não como blogs, este github, entre outros.
+At **omni-electronica**, I contributed to the development and evolution of **AMI-Hub**, a smart-building and facilities management platform, working with Laravel, PHP, Python, FastAPI, React, OAuth 2.0, asynchronous messaging, containers, and cloud infrastructure.
 
----
+I am currently expanding my expertise in **AI Engineering, generative AI, and AI-assisted software development**, exploring LLM-based applications, AI agents, prompt engineering, retrieval-augmented generation (RAG), and ways to integrate AI into software engineering workflows.
 
-## 🚀 Habilidades
-- **Frontend**: React , TypeScript, HTML5, Sass, Svelte
-- **Backend**: Laravel, Lumen, Python, Node.js
-- **DevOps**: AWS, Google Cloud, Docker, GitHub, GitLab
-- **Infraestrutura em Nuvem**: Configuração e gerenciamento de servidores em AWS e GCP
-- **Banco de Dados**: MySQL, MongoDB
-- **Automação e IoT**: Integração de dispositivos inteligentes em edifícios - (Desenvolvimento de softwares)
-- **Red Team**: Offensive Security
+My approach combines established software engineering principles with emerging AI capabilities to build practical, maintainable, secure, and reliable solutions.
 
----
+## 🧠 Core Competencies
 
-# Tempo Livre
+![Software Architecture](https://img.shields.io/badge/Software-Architecture-34495E?style=for-the-badge)
+![Software Development](https://img.shields.io/badge/Software-Development-34495E?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-34495E?style=for-the-badge)
+![Information Security](https://img.shields.io/badge/Information-Security-34495E?style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/AI-Engineering-7B61FF?style=for-the-badge)
 
-Quando tenho algum tempo livre costumo me dedicar a hoobies como escrever (livros, artigos de blog, tutoriais, curso, etc), compor musicas e letras, as vezes jogar algum game. Posso ter iniciado algo e a medida que o tenho tempo vou finalizando aos poucos e publicando. Gosto de estar sempre ativo.
+## 🛠️ Technology Stack
 
----
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-# Como Autor
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
-## Fição Científica:
-### 📘 **Herança Artificial: O Limiar Da Esperança (Portuguese Edition)**
-**Herança Artificial:** O Limiar da Esperança é uma poderosa ficção científica sobre amor, redenção e os limites entre o humano e o artificial.
-[Livro](https://agencylk7.wixsite.com/heranca-artificial)
+### Databases & Messaging
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-## Tecnologia:
-### 📘 **Introdução Ao REACT: Construindo Interfaces Modernas do Zero**
-Se você deseja aprender React e dominar o desenvolvimento de interfaces modernas, interativas e escaláveis, confira meu eBook: [Introdução Ao REACT: Construindo Interfaces Modernas do Zero](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Ao-REACT-Construindo-Interfaces-ebook/dp/B0DMTMYF1F/ref=sr_1_1?dib=eyJ2IjoiMSJ9.1XZ6uN8x7kgZhCnwqKKB_A.lhCh93Zo67kpiDvu2YPoI657Xi_taw5lFNSxPxfLoZk&dib_tag=se&qid=1731492465&refinements=p_27%3ALAMECK+FERNANDES&s=digital-text&sr=1-1&text=LAMECK+FERNANDES). O primeiro de uma série de outros que abordarão, modularmente, conceitos do moderno desenvolvimento web.
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### O que você vai aprender:
-- Fundamentos do React
-- Criação de componentes reutilizáveis
-- Como usar o Virtual DOM para melhorar a performance
-- Desenvolvimento de aplicações web responsivas e escaláveis
+### AI & Generative AI
+![LLMs](https://img.shields.io/badge/LLMs-6C5CE7?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6C5CE7?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C5CE7?style=for-the-badge)
+![AI-assisted Development](https://img.shields.io/badge/AI--assisted%20Development-6C5CE7?style=for-the-badge)
 
----
+My AI focus is currently on learning, experimentation, and the practical application of generative AI and AI-assisted development. These topics represent my ongoing professional development, not a claim of extensive production experience in every area.
 
-## 🚀 Um Café
+## 🏢 Selected Professional Experience
 
-Se algum dos conteúdos que disponibilizei ao longo dos anos na internet foi útil para você, considere apoiar essa causa. Seu apoio permitirá que eu continue criando e oferecendo conteúdo de qualidade e gratuito. Sua contribuição faz toda a diferença para que eu possa seguir compartilhando conhecimento com a mesma dedicação e qualidade. Basta um café 😊
+### AMI-Hub — Smart Buildings & Facilities Management
 
-- ETH: 0x6b8b245ecB9024d2789a281ef0DCAC20f46cE2CD
-- BTC: bc1ppzk2umd54ytyzyey6yq9eyp4jwzlmmh9khfv0spwy2y05aa8q9eqlpw57k
+Contributed to the development and evolution of a modular platform for smart-building and facilities management.
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=TU5PDUQBT7E8Y" target="_blank">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
-</a>
+- Backend services using Laravel/PHP and FastAPI/Python.
+- React frontend and API-first architecture.
+- Centralized authentication and credential management through AMI-Sec and OAuth 2.0.
+- Asynchronous messaging with RabbitMQ and Kafka.
+- Docker-based environments and cloud infrastructure.
+- IoT monitoring features, including sensor maps and operational dashboards.
+
+### Independent Software Development & Systems Analysis
+
+Since 2012, I have delivered custom software solutions and technology consulting, including systems analysis, ERP/SaaS integration, e-commerce, cybersecurity, workflow automation, and programming mentorship.
+
+## 📚 AI Learning & Professional Development
+
+I continuously develop my knowledge through technical study and structured learning, including Microsoft Learn achievements covering AI concepts, generative AI, agents, NLP, speech, computer vision, information extraction, RAG, and generative AI applications.
+
+These achievements document learning activities and should not be confused with professional certifications earned through separate certification exams.
+
+## ✍️ Writing & Creative Projects
+
+Outside software engineering, I enjoy writing, teaching, composing music, and exploring creative projects.
+
+### Science Fiction
+📘 **Herança Artificial: O Limiar da Esperança**  
+A Portuguese-language science fiction story exploring love, redemption, and the boundaries between human and artificial life.  
+[Read more](https://agencylk7.wixsite.com/heranca-artificial)
+
+### Technology
+📘 **Introdução ao React: Construindo Interfaces Modernas do Zero**  
+A practical introduction to React, reusable components, and modern web interface development.  
+[View the book on Amazon](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Ao-REACT-Construindo-Interfaces-ebook/dp/B0DMTMYF1F)
+
+## ☕ Support My Work
+
+If my projects or educational content have been useful to you, you can support my work through [PayPal](https://www.paypal.com/donate/?hosted_button_id=TU5PDUQBT7E8Y).
+
+Thank you for visiting my profile!
