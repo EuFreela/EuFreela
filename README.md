@@ -76,6 +76,11 @@ Contributed to the development and evolution of a modular platform for smart-bui
 
 Since 2012, I have delivered custom software solutions and technology consulting, including systems analysis, ERP/SaaS integration, e-commerce, cybersecurity, workflow automation, and programming mentorship.
 
+## 🔬 Research Project — FAPESP
+
+### [Projeto PISCARI: plataforma de dispositivos BLE para recomendação, métricas e publicidade](https://bv.fapesp.br/pt/bolsas/186421/projeto-piscari-plataforma-de-dispositivos-ble-para-recomendacao-metricas-e-publicidade/)
+**Funding agency:** FAPESP — Fundação de Amparo à Pesquisa do Estado de São Paulo.
+
 ## 📚 AI Learning & Professional Development
 
 I continuously develop my knowledge through technical study and structured learning, including Microsoft Learn achievements covering AI concepts, generative AI, agents, NLP, speech, computer vision, information extraction, RAG, and generative AI applications.
